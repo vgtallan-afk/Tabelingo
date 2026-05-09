@@ -1,0 +1,23 @@
+Tabelingo — Ordem gamificada final
+
+01. cpc
+02. cpm
+03. ctr
+04. frequencia
+05. taxa-visualizacao
+06. pv-ic
+07. ic-compras
+08. ticket-medio
+09. cpa
+10. margem-lucro
+11. ponto-equilibrio
+12. roas-roi
+13. lucro-liquido-venda
+14. aov
+15. volume-de-dados
+16. orcamento-e-gasto
+17. erros-de-rastreamento
+18. diagnostico-cruzado
+19. regras-de-decisao
+20. checklist-final-campanha
+21. treino-diagnostico

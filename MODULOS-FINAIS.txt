@@ -1,0 +1,27 @@
+Módulos mantidos e organizados:
+
+Núcleo inspirado diretamente no PDF:
+1. CPC
+2. CPM
+3. Taxa de Visualização
+4. PV–IC
+5. IC–Compras
+6. CPA
+7. ROAS e ROI
+8. Diagnóstico Cruzado
+
+Expansões mantidas no Tabelingo:
+- CTR
+- Frequência
+- Ticket Médio
+- Margem de Lucro
+- Ponto de Equilíbrio
+- Lucro Líquido por Venda
+- AOV
+- Volume de Dados
+- Orçamento e Gasto
+- Erros de Rastreamento
+- Regras de Decisão
+- Checklist Final de Campanha
+- Treino Diagnóstico com 150 cenários
+- Provas por unidade

@@ -1,0 +1,11 @@
+Tabelingo V11 UX Clean
+
+- Repaginada visual completa com foco em clareza e organização.
+- Navegação reorganizada em Aprender, Diagnosticar, Consultar e Configurar.
+- Tela inicial com 4 cards principais em grade 2x2.
+- Trilha em unidades recolhíveis, sem remover módulos.
+- Aulas com resumo + explicação completa em sanfona.
+- Nova área Consultar para mapa, PDF, progresso e produto.
+- Mapa mantido como régua clicável por métrica.
+- Analyzer e criativos mantidos em fluxo guiado.
+- UI mais limpa, menos visual pesado e melhor legibilidade.

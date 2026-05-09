@@ -1,0 +1,9 @@
+Tabelingo V12 UX Clean + Caminho Duolingo
+
+- Repaginada UX/UI mantida.
+- Página Aprender voltou a usar o caminho das pedras estilo Duolingo.
+- Não remove nenhum módulo, texto, prova, funcionalidade ou feature.
+- Mantém o visual mais clean, navegação reorganizada e área Consultar.
+- Mantém analisador de campanha e criativos em fluxo guiado.
+- Mantém travas de escala, ROAS/ROI separados e dados zero tratados corretamente.
+- Ajusta textos para deixar claro que a trilha visual de módulos foi preservada.

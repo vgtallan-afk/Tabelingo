@@ -1,0 +1,13 @@
+Tabelingo V6 — Travas de escala e fidelidade final
+
+Correções incluídas:
+- O analisador de campanha não recomenda mais escala com ROAS isolado.
+- Escala controlada agora exige Taxa de Visualização, PV–IC, IC–Compras, CPA, CPA máximo/ponto de equilíbrio, ROAS e volume mínimo.
+- Valores 0 agora são tratados como dado real e alerta vermelho quando aplicável, não como campo vazio.
+- ROAS permanece separado de ROI no analisador e nas explicações.
+- A análise de criativos agora usa vencedor provisório quando faltam dados essenciais ou volume.
+- A comparação de criativos só sugere mover verba quando o vencedor tem dados mínimos e volume suficiente.
+- Módulos extras seguem mantidos e marcados como complementares/avançados no Modo PDF Original.
+- Cache do PWA atualizado para evitar prender versão antiga.
+
+Nada foi removido do app.

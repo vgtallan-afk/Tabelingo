@@ -1,0 +1,13 @@
+Tabelingo V13 — Picker Clean
+
+Alterações principais:
+- Tela Aprender simplificada: removido o bloco inicial de explicação e o topo "Mapa da trilha".
+- Página Aprender continua com o caminho de pedras estilo Duolingo.
+- Ao abrir Aprender, o app tenta rolar automaticamente para a fase atual.
+- Aba Analisar agora abre limpa, com breve explicação e quatro opções: analisar campanha, comparar campanhas, analisar anúncio e comparar anúncios.
+- Análise de campanha e anúncio agora acontece em uma pergunta por tela.
+- Adicionado componente de régua horizontal estilo picker: valor central fixo, ticks, snap e arraste com o dedo.
+- Dados numéricos do analisador não usam mais o slider antigo.
+- Adicionada comparação de campanhas.
+- Mantidas as travas de escala: ROAS isolado não libera escala.
+- Nada de conteúdo, módulo, prova ou funcionalidade foi removido.

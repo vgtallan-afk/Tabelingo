@@ -1,0 +1,13 @@
+Tabelingo V14 — Clean Original
+
+- Removidas referências visíveis a PDF e ordem externa.
+- App tratado como fonte original do conteúdo.
+- Analisador mais limpo, sem descrição excessiva no topo.
+- Botões Voltar e Continuar lado a lado e no fluxo normal da página.
+- Removido botão Pular do wizard.
+- Ajuda "O que é isso" e "Onde encontrar" movida para abaixo dos botões.
+- Régua picker mantém valores vazios sem transformar em zero quando o usuário não toca na régua.
+- Ticket médio salvo passa a preencher automaticamente campos e notas que dependem de ticket.
+- Adicionado modo claro/escuro.
+- Adicionado controle de tamanho da interface com 5 níveis menores.
+- Reforçado auto-scroll para a fase atual na aba Aprender.

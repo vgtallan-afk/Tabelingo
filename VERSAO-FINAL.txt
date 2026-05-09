@@ -1,0 +1,12 @@
+Tabelingo — Versão Final Publicável V3
+
+Status: pronto para subir no GitHub.
+
+Esta versão mantém todo o conteúdo existente do app e adiciona as correções de fidelidade ao PDF Tabela Inteligente:
+- tela PDF Original;
+- separação entre núcleo do PDF e expansões do Tabelingo;
+- modo de ordem conceitual do PDF;
+- ajuste de nomenclatura ROAS e ROI;
+- reforço de que régua é referência, não lei absoluta;
+- analisador tratado como diagnóstico de decisão, não dashboard diário;
+- cache PWA atualizado.

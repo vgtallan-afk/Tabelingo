@@ -1,0 +1,10 @@
+TABELINGO — V5 CRIATIVOS
+
+- Adicionada opção dentro do analisador: Campanha completa ou Só criativos.
+- Mantida a análise de campanha completa já existente.
+- Adicionado comparador de múltiplos criativos da mesma campanha.
+- O comparador aceita nome, ângulo, gasto, receita, compras, impressões, cliques, visualizações, checkouts, CTR, CPC, CPM, taxa de gancho/3s, retenção e frequência.
+- O app calcula métricas automaticamente quando houver dados suficientes.
+- O app mostra criativo candidato a escala controlada, criativo para manter/otimizar, criativo para monitorar e criativo para pausar/reduzir/refazer.
+- Adicionado aviso para comparar criativos no mesmo contexto: mesma campanha, mesmo produto, janela parecida e verba parecida.
+- Nada foi removido do aplicativo.

@@ -1,0 +1,14 @@
+Tabelingo V9 UX Wizard
+
+- Corrigida a leitura dos botões verdes: texto principal agora é preto.
+- Tela inicial reorganizada: título Tabelingo maior, quatro opções principais em grade 2x2 com mesmo tamanho e espaçamento.
+- Linguagem suavizada: menos gírias forçadas, mantendo tom leve.
+- Progresso agora aparece como "do aprendizado".
+- Área "Como funciona" virou bloco recolhível para reduzir textão.
+- Analisador de campanha virou fluxo passo a passo: uma métrica por tela.
+- Campos aceitam vírgula e têm régua deslizante para preencher sem digitar tudo manualmente.
+- Cada métrica do analisador traz explicação objetiva e onde encontrar.
+- Análise de criativos virou fluxo guiado: preenche um criativo, analisa, adiciona outro e compara todos quando quiser.
+- Mapa da tabela deixou de ser tabela larga e virou régua clicável por métrica/faixa.
+- Mantidas as travas da V6: não escalar com ROAS isolado, dado incompleto ou volume baixo.
+- Service worker segue desativado/no-op para reduzir risco de cache antigo fechar o app.

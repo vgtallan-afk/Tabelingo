@@ -1,0 +1,21 @@
+TABELINGO — V4 HOTFIX
+
+Correção principal:
+- Resolver abertura/fechamento automático do app/PWA.
+
+Alterações técnicas:
+- Renderização inicial mais leve.
+- Rotas renderizadas sob demanda.
+- Tratamento global de erros.
+- Tela de recuperação com limpeza de cache/localStorage.
+- Service worker refeito com cache v4-hotfix.
+- Cache individual de assets para não falhar instalação inteira.
+- Navegação network-first para GitHub Pages atualizar corretamente.
+- Manifest com start_url mais seguro.
+- Ícones PNG 192 e 512 adicionados.
+- apple-touch-icon adicionado.
+- saveData protegido com try/catch.
+
+Conteúdo:
+- Nada foi removido.
+- Todos os módulos, provas, treino, analisador e mapa foram mantidos.

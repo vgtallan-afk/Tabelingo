@@ -1,0 +1,16 @@
+Tabelingo V8 Direct
+
+Correção principal:
+- Removido o modo PWA automático do index.html.
+- Removido carregamento por reset automático.
+- Removido service worker da inicialização do app.
+- JavaScript separado em app.js para carregamento mais estável.
+- Novo STORAGE_KEY v8 para evitar dados antigos corrompidos.
+- Mantidos todos os conteúdos, módulos, provas, análise de campanha, análise de criativos e travas de escala da V6/V7.
+- Incluída página limpar-cache.html para limpeza manual de versões antigas.
+
+Uso recomendado:
+1. Subir todos os arquivos no GitHub Pages.
+2. Abrir /limpar-cache.html uma vez no celular, tocar em limpar cache antigo.
+3. Abrir /index.html?v=8-direct.
+4. Remover qualquer atalho antigo da tela inicial e criar um novo.

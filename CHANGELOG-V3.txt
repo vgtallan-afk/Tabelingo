@@ -1,0 +1,15 @@
+CHANGELOG — Tabelingo V3
+
+1. Não foi removido nenhum módulo existente.
+2. Foi adicionada a página "PDF Original" no menu lateral.
+3. A página nova separa:
+   - módulos base da Tabela Inteligente;
+   - expansões criadas para o Tabelingo.
+4. Foi criada uma ordem conceitual fiel ao PDF.
+5. ROAS e ROI foram diferenciados:
+   - ROAS = receita / investimento;
+   - ROI = lucro líquido / investimento.
+6. O analisador agora deixa claro que é ferramenta de diagnóstico de decisão.
+7. O mapa da tabela agora informa que as réguas são referências iniciais, não verdades absolutas.
+8. Service worker atualizado para nova versão de cache.
+9. README atualizado com instruções de publicação no GitHub Pages.

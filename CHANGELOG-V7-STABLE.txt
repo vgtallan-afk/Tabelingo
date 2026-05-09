@@ -1,0 +1,10 @@
+Tabelingo V7 Stable - Correção do app abrindo e fechando
+
+Correções:
+- Desativado o registro de novo service worker para evitar crash por cache antigo do PWA.
+- service-worker.js transformado em limpador de cache/versões antigas, sem interceptar navegação.
+- Manifest atualizado com start_url de recuperação: reset.html?v=7.
+- Incluído reset.html para limpar cache/service worker antigo e redirecionar para index.html?stable=7.
+- Adicionadas metas de compatibilidade mobile/iOS.
+- Adicionado guardião de boot no index para desregistrar service workers antigos e limpar caches antigos do Tabelingo.
+- Conteúdo, módulos, provas, analisador de campanha, análise de criativos e travas de escala da V6 foram mantidos.
